@@ -36,7 +36,7 @@ window.addEventListener("DOMContentLoaded", function () {
     });
 
     lazyLoad();
-    hide_show_content();
+    //hide_show_content();
     //add_module();
     slider_js();
     show_hide_sidebar_mobile();
